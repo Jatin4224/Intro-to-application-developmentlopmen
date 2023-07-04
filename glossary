@@ -1,0 +1,53 @@
+Term	Definition-
+
+AngularJS	An open-source JavaScript framework for dynamic web applications
+
+Application Programming Interface (API)	Code that allows two software programs to communicate with each other.
+
+Build Automation	Allow you to download dependencies, compile code, package binary code, run tests, deploy to production.
+
+Build Automation Servers	Execute build-automation utilities on a scheduled or triggered basis.
+  
+Build Automation Utilities	Generate executables by compiling and linking code.
+  
+Continuous Integration/** Continuous Deployment (CI/CD)**	A method for releasing code and integrating it into code that has already been developed in order to prevent the application from breaking throughout the app’s lifecycle.
+
+Django	A framework for Python web development.
+
+Dynamic Content	Data that is created each time a request is sent to a server.
+
+Endpoint	The point at which an API connects with the software program.
+
+Frameworks	Provide a standard way to build an application. Frameworks dictate architecture and program flow.
+
+IDE	“Integrated Development Environment” Helps create and manage code.
+
+Inversion of Control	A predefined workflow where the developer is not in full control of how the application operates.
+
+JavaScript Framework	An application framework written in JavaScript to create responsive sites.
+
+LESS	“Learner Style Sheets” add more style and functions to CSS.
+
+less.js	A JavaScript tool that converts LESS styles to CSS.
+
+Libraries	Reusable collections of code
+
+Opinionated	Frameworks that have a lot of control are sometimes considered “opinionated”.
+
+Package Managers	Coordinate with file archivers to extract packages. Verify check sums and digital certificates. Locate, download, and install updates of existing software from a repository as well as manage dependencies. Common package managers include the following: Debian Package Management System (DPMS), Red Hat Package Manager for Linux, Chocolatery for Windows, Homebrew and MacPorts for MacOS.
+
+Packages	Archive files that include app files, instructions for installation, and metadata.
+
+React.js	A JavaScript framework developed by Facebook that helps build and drop elements onto a page.
+
+Responsive Design	Design technique that automatically resizes a display to adapt to a specific screen size.
+
+Route	Allows front-end client to plug into correct socket on the backend. They are the paths that network traffic takes from a virtual machine (VM) instance to other destinations.
+
+SASS	“Syntactically Awesome Stylesheets” are an extension of CSS.
+
+Static Content	A display of data that has been previously stored on a server.
+
+Version Control	Allows you to revert to earlier versions of code, resolves conflicts between the same files, and split and merge different code branches.
+
+Vue.js	A community-based JavaScript framework focused on UI. Includes UI components such as buttons and other visual elements, and is both a library and a framework.
